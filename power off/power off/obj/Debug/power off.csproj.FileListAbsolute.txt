@@ -1,0 +1,10 @@
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\bin\Debug\power off.exe.config
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\bin\Debug\power off.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\bin\Debug\power off.pdb
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\obj\Debug\power off.csprojAssemblyReference.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\obj\Debug\power_off.Form1.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\obj\Debug\power_off.Properties.Resources.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\obj\Debug\power off.csproj.GenerateResource.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\obj\Debug\power off.csproj.CoreCompileInputs.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\obj\Debug\power off.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\power off\power off\obj\Debug\power off.pdb
